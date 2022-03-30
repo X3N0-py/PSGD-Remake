@@ -8,9 +8,9 @@ Here you can see the roadmap for PS Vita games. The .xlsx sheet will be updated 
 - [X] B
 - [X] C
 - [X] D
-- [ ] E
-- [ ] F
-- [ ] G
+- [X] E
+- [X] F
+- [X] G
 - [ ] H
 - [ ] I
 - [ ] J
