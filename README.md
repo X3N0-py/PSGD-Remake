@@ -5,6 +5,7 @@ An awesome offline Playstation Game Database for offline Trophy's (Platinum & 10
 </p>
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About This Project
 
@@ -19,6 +20,18 @@ The idea to this project actually started a couple of years ago when i saw the l
 - [ ] Playstation 3 (+ .xlsx)
 - [ ] Playstation 4 (+ .xlsx)
 - [ ] .xlsx Document (AIO)
+
+
+
+<!-- REPORT ERRORS -->
+## Report Errors
+
+You can report errors in anyway you like. Mail, DM or issues on GitHub. As i said i don't know when or how often i get to upload new list, but i will update any errors spotted in the list quickly and issue an update. Below you can see wich version i take reports from.
+
+
+| Version | Supported          |
+| ------- | ------------------ |
+|  v7.0.0 | :white_check_mark: |
 
 
 
