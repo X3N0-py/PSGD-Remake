@@ -31,7 +31,7 @@ You can report errors in anyway you like. Mail, DM or issues on GitHub. As i sai
 
 | Version | Supported          |
 | ------- | ------------------ |
-|  v7.0.0 | :white_check_mark: |
+|  v8.0.1 | :white_check_mark: |
 
 
 
