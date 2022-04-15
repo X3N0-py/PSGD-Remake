@@ -5,6 +5,9 @@ An awesome offline Playstation Game Database for offline Trophy's (Platinum & 10
 </p>
 
 
+<!-- DISCONTINUED PROJECT INFO -->
+<h3 align="center">PROJECT HAS BEEN DISCONTINUED</h3>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About This Project
